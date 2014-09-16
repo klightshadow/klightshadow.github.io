@@ -1,1 +1,0 @@
-User’s name and picture in Facebook only used in TicTacToe.
